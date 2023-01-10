@@ -10,3 +10,5 @@ ProjectSettings filter=lfs diff=lfs merge=lfs -text
 obj filter=lfs diff=lfs merge=lfs -text
 Assembly-CSharp.csproj filter=lfs diff=lfs merge=lfs -text
 Assets filter=lfs diff=lfs merge=lfs -text
+11271@Echo[[:space:]]MINGW64[[:space:]]~/Desktop/Game/Bomber[[:space:]](master) filter=lfs diff=lfs merge=lfs -text
+Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
