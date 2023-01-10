@@ -1,0 +1,8 @@
+﻿towerminer:高塔矿工
+start game:开始游戏
+switch language:切换当前语言
+play info:操作指南
+quit:退出
+You can enter either in mobile or PC:你可以通过移动端或者电脑端访问此游戏
+Developer Info  OFFMIND -CODER ANKE -DESIGNER FYAZASHIRU -ARTRT:开发者相关的信息 OFFMIND-程序 暗刻-策划 FYAZASHIRU-美工
+IF YOU ARE IN MOBILE USING RIGHT BUTTON TO CLICK OPTIONS:如果你是移动端的话请按右边Enter按钮以进行选择

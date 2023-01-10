@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - bombSpawner
+  - othersSpawner
+  - playerSpawner
+  - connectInfo
+  - eventSystem
+  - externalInfo
+  - localInfo
+  - webManager
+  - player
+  - others
+  - joyStick
+  - shadowPool
+  - dashButton
+  - wall
+  - enemy
+  - aim
+  - cursorFollow
+  - flash
+  - cyberGun
+  - debug
+  - groundMgr
+  - pickable
+  - healthBar
+  - dust
+  - hit
+  - hitSound
+  - rollSound
+  - getSound
+  - bar
+  - npcBar
+  - textP
+  - typing
+  - enter
+  - lowGun
+  - highGun
+  - lowTower
+  - highTower
+  - FireP
+  - enterC
+  - nbGun
+  - aimTwo
+  - aimOne
+  - LowButHigh
+  - LowButLow
+  - HighButHigh
+  - HighButLow
+  - healthBarLow
+  - healthBarHigh
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - BlockWall
+  - Water
+  - UI
+  - PostProcessing
+  - Pickable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

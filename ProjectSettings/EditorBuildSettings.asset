@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: 071b5a9552ba74a4a90ba8bf53d38eb0
+  - enabled: 1
+    path: Assets/Scenes/GroundScene.unity
+    guid: e142f0929d9a8724282c09173fed518c
+  - enabled: 1
+    path: Assets/Scenes/TowerScene.unity
+    guid: 184e7c6443976474484319cc31c37247
+  - enabled: 1
+    path: Assets/Scenes/BackOneScene.unity
+    guid: d425814bd4f9ddb40bc4c67418086242
+  - enabled: 1
+    path: Assets/Scenes/BackTwo.unity
+    guid: ab33fdb2dd6b9dc4394f53b16b98b066
+  - enabled: 1
+    path: Assets/Scenes/BackThree.unity
+    guid: a4630f42548a4624e9207d96a9c0e2a8
+  m_configObjects: {}

@@ -1,0 +1,8 @@
+﻿towerminer:TowerMiner
+start game:START GAME
+switch language:SWITCH LANGUAGE
+play info:PLAY INFO
+quit:QUIT
+You can enter either in mobile or PC:You can enter either in mobile or PC
+Developer Info  OFFMIND -CODER ANKE -DESIGNER FYAZASHIRU -ARTRT:Developer Info  OFFMIND -CODER ANKE -DESIGNER FYAZASHIRU -ARTRT
+IF YOU ARE IN MOBILE USING RIGHT BUTTON TO CLICK OPTIONS:IF YOU ARE IN MOBILE USING RIGHT BUTTON TO CLICK OPTIONS
